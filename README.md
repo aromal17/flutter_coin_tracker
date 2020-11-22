@@ -1,16 +1,9 @@
-# coin_tracker
+# Coin_Tracker
 
-A new Flutter application.
+This flutter application enables you to know the exact values of Bitcoin, Etherem and LiteCoin in 21 different currencies.\
+The currency values are optained from [coinapi.io](https://docs.coinapi.io/#md-docs).
 
-## Getting Started
+## External dependency used:
+-[http](https://pub.dev/packages/http) for fetching the information from [coinapi.io](https://docs.coinapi.io/#md-docs
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+HAPPY CODING!!!😊 
